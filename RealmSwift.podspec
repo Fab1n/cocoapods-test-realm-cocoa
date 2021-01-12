@@ -1,7 +1,7 @@
 # coding: utf-8
 Pod::Spec.new do |s|
   s.name                      = 'RealmSwift'
-  version                     = `sh build.sh get-version`
+  version                     = '10.1.400'
   s.version                   = version
   s.summary                   = 'Realm is a modern data framework & database for iOS, macOS, tvOS & watchOS.'
   s.description               = <<-DESC
